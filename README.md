@@ -4,6 +4,6 @@ Python webpage to make journal entries utilizing
 * Bootstrap for CSS themes
 * SQLalchemy for account database
 
-!(j1.JPG)
-!(j2.JPG)
-!(j3.JPG)
+![](j1.JPG)
+![](j2.JPG)
+![](j3.JPG)
